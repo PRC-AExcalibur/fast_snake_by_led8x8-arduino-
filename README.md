@@ -12,5 +12,5 @@ Use pointer array to record the snake, and use the pointer in the struct to reco
 Only exchange two elements twice each time (update the snake head and the snake tail), so the time complexity is guaranteed to be constant.
 
 
-![Front view](https://github.com/PRC-AExcalibur/fast_snake_by_led8x8-arduino-/blob/main/Wiring%20diagram.jpg)
+![Front view](https://github.com/PRC-AExcalibur/fast_snake_by_led8x8-arduino-/blob/main/Front%20view.jpg)
 ![Wiring diagram](https://github.com/PRC-AExcalibur/fast_snake_by_led8x8-arduino-/blob/main/Wiring%20diagram.jpg)
