@@ -1,4 +1,4 @@
-# 快速贪吃蛇 fast_snake
+# 快速贪吃蛇 fast_snake_game
 
 贪吃蛇：基于Arduino,使用8*8LED做显示，使用摇杆控制方向。
 
@@ -10,3 +10,5 @@ The time complexity of this algorithm for each operation of n*m map array is O(1
 The principle is to generate a regularly arranged struct through the array, and the other elements of the array can be quickly indexed through xy in the struct.
 Use pointer array to record the snake, and use the pointer in the struct to record the chain of the snake.
 Only exchange two elements twice each time (update the snake head and the snake tail), so the time complexity is guaranteed to be constant.
+
+![Wiring diagram](https://github.com/PRC-AExcalibur/fast_snake_by_led8x8-arduino-/blob/main/Wiring%20diagram.jpg)
