@@ -11,4 +11,6 @@ The principle is to generate a regularly arranged struct through the array, and 
 Use pointer array to record the snake, and use the pointer in the struct to record the chain of the snake.
 Only exchange two elements twice each time (update the snake head and the snake tail), so the time complexity is guaranteed to be constant.
 
+
+![Front view](https://github.com/PRC-AExcalibur/fast_snake_by_led8x8-arduino-/blob/main/Wiring%20diagram.jpg)
 ![Wiring diagram](https://github.com/PRC-AExcalibur/fast_snake_by_led8x8-arduino-/blob/main/Wiring%20diagram.jpg)
